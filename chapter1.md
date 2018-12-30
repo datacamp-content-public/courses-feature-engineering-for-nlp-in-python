@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Bag of Words Pipeline
+
+```yaml
+type: VideoExercise
+key: fe2752e84f
+xp: 50
+```
+
+`@projector_key`
+16bb4f2b1cecaf5146a69e37564e3166
