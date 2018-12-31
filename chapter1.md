@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Introduction to NLP Feature Engineering'
+description: 'In this chapter we discuss the basics of NLP Feature Engineering and Bag of words model.'
 ---
 
 ## Example coding exercise
